@@ -3,3 +3,4 @@
 2. File "dist.rar" is a compressed package of visual interface.Please read the file "Installation manual.docx" before installing the visualization software. Please read the file "Operation manual.docx" before using the visualization software.
 3. Folders "Example" are test data. 
 4. Other documents are required for attachment.
+5. This file (professional vocabulary.txt) is required by appendix S2 (professional vocabulary of Medical Psychology)
